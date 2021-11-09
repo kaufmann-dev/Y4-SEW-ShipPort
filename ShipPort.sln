@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipPort", "ShipPort\ShipPort.csproj", "{BA42D44A-9447-4717-A03E-17E9A14B1107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA42D44A-9447-4717-A03E-17E9A14B1107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA42D44A-9447-4717-A03E-17E9A14B1107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA42D44A-9447-4717-A03E-17E9A14B1107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA42D44A-9447-4717-A03E-17E9A14B1107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
